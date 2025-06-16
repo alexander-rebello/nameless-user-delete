@@ -27,7 +27,7 @@ class UserDelete_Module extends Module
         parent::__construct($this, $name, $author, $module_version, $nameless_version);
 
         // Define URLs which belong to this module
-        $pages->add('UserDelete', '/user/delete', 'pages/user/delete.php');
+        $pages->add('UserDelete', '/user/delete', 'pages/user/delete.php', 'cc_delete_account');
     }
 
     public function onPageLoad(
