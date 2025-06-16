@@ -1,0 +1,17 @@
+{
+	"user/delete_account": "Konto löschen",
+	"user/delete_account_info": "Das Löschen Ihres Kontos anonymisiert Ihre persönlichen Daten, während Ihre Beiträge und Mitwirkungen erhalten bleiben. Ihr Benutzername, Ihre E-Mail-Adresse und Ihre Profilinformationen werden dauerhaft entfernt, aber Ihre Forenbeiträge und Themen bleiben unter einem anonymisierten Namen sichtbar. Diese Aktion kann nicht rückgängig gemacht werden.",
+	"user/username_confirm": "Benutzername bestätigen",
+	"user/username_confirm_info": "Bitte geben Sie Ihren Benutzernamen ein, um das Löschen des Kontos zu bestätigen",
+	"user/confirm_delete_account": "Ich verstehe, dass diese Aktion nicht rückgängig gemacht werden kann",
+	"user/account_deleted_successfully": "Ihr Konto wurde erfolgreich gelöscht.",
+	"user/account_anonymized_successfully": "Ihr Konto wurde erfolgreich anonymisiert. Ihre persönlichen Daten wurden entfernt, aber Ihre Beiträge bleiben erhalten.",
+	"user/incorrect_password": "Das eingegebene Passwort ist falsch.",
+	"user/username_does_not_match": "Der eingegebene Benutzername stimmt nicht mit Ihrem Kontonamen überein.",
+	"user/current_password": "Aktuelles Passwort",
+	"user/cannot_delete_admin": "Sie können Ihr Konto nicht löschen, da Sie ein Administrator sind.",
+	"user/no_permission_delete": "Sie haben nicht die Berechtigung, Ihr Konto zu löschen.",
+	"general/warning": "Warnung",
+	"general/cancel": "Abbrechen",
+	"general/error_occurred": "Ein Fehler ist aufgetreten, während Ihre Anfrage bearbeitet wurde. Bitte versuchen Sie es später erneut."
+}

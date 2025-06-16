@@ -40,9 +40,11 @@
             <div class="ui segment">
                 <h3 class="ui header">{$DELETE_ACCOUNT}</h3>
                 <div class="ui warning message">
-                    <i class="warning icon"></i>
                     <div class="content">
-                        <div class="header">{$WARNING}</div>
+                        <div class="header">
+                    		<i class="warning icon"></i>
+                            {$WARNING}
+                        </div>
                         {$DELETE_ACCOUNT_INFO}
                     </div>
                 </div>

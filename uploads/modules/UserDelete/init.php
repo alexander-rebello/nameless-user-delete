@@ -4,11 +4,11 @@
  * Initialization file
  * 
  * @author Alexander Rebello
- * @version 1.0.0
+ * @version 2.3.4
  * @license MIT
  */
 // Initialise user delete language
-$userDelete_language = new Language(ROOT_PATH . '/modules/UserDelete/language');
+$userDelete_language = new Language(ROOT_PATH . '/modules/UserDelete/language', LANGUAGE);
 
 // Add Delete Account link to UserCP navigation
 $cc_nav->add('cc_delete_account', 'Delete Account', URL::build('/user/delete'));

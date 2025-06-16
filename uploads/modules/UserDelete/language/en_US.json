@@ -1,18 +1,17 @@
 {
-	"user": {
-		"delete_account": "Delete Account",
-		"delete_account_info": "Deleting your account will anonymize your personal data while preserving your posts and contributions. Your username, email, and profile information will be permanently removed, but your forum posts and topics will remain visible under an anonymized name. This action cannot be undone.",
-		"username_confirm": "Username Confirmation",
-		"username_confirm_info": "Please enter your username to confirm account deletion",
-		"confirm_delete_account": "I understand that this action cannot be undone",
-		"account_deleted_successfully": "Your account has been successfully deleted.",
-		"account_anonymized_successfully": "Your account has been successfully anonymized. Your personal data has been removed, but your contributions remain preserved.",
-		"username_does_not_match": "The username you entered does not match your account username.",
-		"current_password": "Current Password",
-		"cannot_delete_last_admin": "You cannot delete your account as you are the only administrator. Please create another administrator first."
-	},
-	"general": {
-		"warning": "Warning",
-		"cancel": "Cancel"
-	}
+	"user/delete_account": "Delete Account",
+	"user/delete_account_info": "Deleting your account will anonymise your personal data whilst preserving your posts and contributions. Your username, email, and profile information will be permanently removed, but your forum posts and topics will remain visible under an anonymised name. This action cannot be undone.",
+	"user/username_confirm": "Username Confirmation",
+	"user/username_confirm_info": "Please enter your username to confirm account deletion",
+	"user/confirm_delete_account": "I understand that this action cannot be undone",
+	"user/account_deleted_successfully": "Your account has been successfully deleted.",
+	"user/account_anonymized_successfully": "Your account has been successfully anonymised. Your personal data has been removed, but your contributions remain preserved.",
+	"user/incorrect_password": "The password you entered is incorrect.",
+	"user/username_does_not_match": "The username you entered does not match your account username.",
+	"user/current_password": "Current Password",
+	"user/cannot_delete_admin": "You cannot delete your account as you are an administrator.",
+	"user/no_permission_delete": "You do not have permission to delete your account.",
+	"general/warning": "Warning",
+	"general/cancel": "Cancel",
+	"general/error_occurred": "An error occurred while processing your request. Please try again later."
 }

@@ -1,10 +1,10 @@
 <?php
-
-/**
- * NamelessMC User Delete Module
- *
+/*
+ * User Delete Module
+ * Module file
+ * 
  * @author Alexander Rebello
- * @version 1.0.0
+ * @version 2.3.4
  * @license MIT
  */
 
@@ -19,7 +19,7 @@ class UserDelete_Module extends Module
         $this->_language = $language;
         $this->_userDelete_language = $userDelete_language;
 
-        $name = 'User Delete';
+        $name = 'UserDelete';
         $author = '<a href="https://www.alexander-rebello.de" target="_blank" rel="nofollow noopener">Alexander Rebello</a>';
         $module_version = '2.2.3';
         $nameless_version = '2.2.3';
