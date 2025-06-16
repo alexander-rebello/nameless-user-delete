@@ -40,7 +40,7 @@ class UserDelete_Module extends Module
         TemplateBase $template
     ) {
         // Register permissions
-        PermissionHandler::registerPermissions('UserCP', [
+        PermissionHandler::registerPermissions('UserDelete', [
             'delete_user.delete' => 'Profile Settings &raquo; Delete own account',
         ]);
     }
